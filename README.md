@@ -123,7 +123,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
   
-Created with ❤️ by [Sawan Beli](https://github.com/Saavnbeli)
+Created with ❤️ by [Ravishanker Gandigudi](https://github.com/ravigandigudi)
 
 </div>
 
